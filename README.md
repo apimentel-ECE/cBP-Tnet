@@ -1,4 +1,5 @@
-# cBP-Tnet
+# SEE UPDATES: github.com/apimentel-PECE
+
 cBP-Tnet: Continuous Blood Pressure Estimation using Multi-Task Transformer Network with Automatic Photoplethysmogram Feature Extraction
 
 Kindly cite our paper, thank you: Pimentel, A. A., Huang, J.-J., & See, A. R. A. (2025). cBP-Tnet: Continuous Blood Pressure Estimation Using Multi-Task Transformer Network with Automatic Photoplethysmogram Feature Extraction. Applied Sciences, 15(14), 7824. https://doi.org/10.3390/app15147824
