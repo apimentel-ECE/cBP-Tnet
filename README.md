@@ -1,4 +1,4 @@
-# SEE UPDATES: github.com/apimentel-PECE
+# SEE UPDATES: github.com/apimentel-PECE (https://github.com/apimentel-PECE/cBP-Tnet)
 
 cBP-Tnet: Continuous Blood Pressure Estimation using Multi-Task Transformer Network with Automatic Photoplethysmogram Feature Extraction
 
@@ -8,6 +8,6 @@ Abstract—Traditional cuff-based blood pressure (BP) monitoring methods provide
 
 Keywords—non-invasive continuous cuff-less blood pressure estimation; photoplethysmogram; multi-task learning transformer; automatic PPG feature extraction; deep learning
 
-# SEE UPDATES: github.com/apimentel-PECE
+# SEE UPDATES: github.com/apimentel-PECE (https://github.com/apimentel-PECE/cBP-Tnet)
 
 
